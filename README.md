@@ -45,7 +45,7 @@ Researcher | Full-stack Developer | AI Developer
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<h3> 🛠 &nbsp;ML|AI Stack</h3>
+<h3> 🛠 &nbsp;ML | AI Stack</h3>
 
 ![openCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-flat&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23013243.svg?style=flat&logo=Flask&logoColor=white)
