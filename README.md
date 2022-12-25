@@ -13,7 +13,6 @@ Researcher | Full-stack Developer | AI Developer
 - 👨🏻‍💻 I’m currently working as a Associate Software Engineer
 - 🌱 I’m currently learning Rust, Erlang, Elixir, Julia and Go.
 - 🤔 My research interests are lie in the area of Wireless Communication (5G and Beyond), Energy Harvesting, Graph Neural Networks and etc.
-- 💼 I’m pursuing a Ph.D. degree or R.A. position.
 - 📫 Please email via sanchukanirupama@gmail.com to reach me.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
